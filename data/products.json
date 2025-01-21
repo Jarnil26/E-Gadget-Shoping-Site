@@ -1,0 +1,232 @@
+[
+    {
+        "name": "Iphone 16 pro max",
+        "category": "Electronics",
+        "image": "./images/mobile1.jpg",
+        "price": "$499"
+    },
+    {
+        "name": "Iqoo 13",
+        "category": "Electronics",
+        "image": "./images/mobile2.jpg",
+        "price": "$499"
+    },
+    {
+        "name": "Samsung S24 Ultra",
+        "category": "Electronics",
+        "image": "./images/mobile3.jpeg",
+        "price": "$499"
+    },
+    {
+        "name": "Vivo X200",
+        "category": "Electronics",
+        "image": "./images/mobile4.png",
+        "price": "$499"
+    },
+    {
+        "name": "Oppo Find X8",
+        "category": "Electronics",
+        "image": "./images/mobile5.png",
+        "price": "$499"
+    },
+    {
+        "name": "Realme Gt 7Pro",
+        "category": "Electronics",
+        "image": "./images/mobile7.jpg",
+        "price": "$499"
+    },
+    {
+        "name": "Moto Edge 50",
+        "category": "Electronics",
+        "image": "./images/mobile8.jpg",
+        "price": "$499"
+    },
+    {
+        "name": "Iphone 13",
+        "category": "Electronics",
+        "image": "./images/mobile9.jpg",
+        "price": "$499"
+    },
+    {
+        "name": "Refrigerator",
+        "category": "Appliances",
+        "image": "./images/fr1.jpg",
+        "price": "$799"
+    },
+    {
+      "name": "Refrigerator",
+      "category": "Appliances",
+      "image": "./images/fr2.jpg",
+      "price": "$799"
+    },
+    {
+        "name": "Refrigerator",
+        "category": "Appliances",
+        "image": "./images/fr3.jpg",
+        "price": "$799"
+    },
+    {
+        "name": "Refrigerator",
+        "category": "Appliances",
+        "image": "./images/fr4.jpg",
+        "price": "$799"
+    },
+    {
+        "name": "Refrigerator",
+        "category": "Appliances",
+        "image": "./images/fr5.jpg",
+        "price": "$799"
+    },
+    {
+        "name": "Refrigerator",
+        "category": "Appliances",
+        "image": "./images/fr6.jpg",
+        "price": "$799"
+    },
+    {
+        "name": "Refrigerator",
+        "category": "Appliances",
+        "image": "./images/fr7.jpg",
+        "price": "$799"
+    },
+    {
+        "name": "Refrigerator",
+        "category": "Appliances",
+        "image": "./images/fr9.jpg",
+        "price": "$799"
+    },
+    {
+      "name": "TV",
+      "category": "Appliances",
+      "image": "./images/tv1.jpg",
+      "price": "$999"
+    },
+    {
+      "name": "TV",
+      "category": "Appliances",
+      "image": "./images/tv2.jpg",
+      "price": "$999"
+    },
+    {
+      "name": "TV",
+      "category": "Appliances",
+      "image": "./images/tv3.jpg",
+      "price": "$999"
+    },
+    {
+      "name": "TV",
+      "category": "Appliances",
+      "image": "./images/tv4.jpg",
+      "price": "$999"
+    },
+    {
+      "name": "TV",
+      "category": "Appliances",
+      "image": "./images/tv5.jpg",
+      "price": "$999"
+    },
+    {
+      "name": "TV",
+      "category": "Appliances",
+      "image": "./images/tv6.jpg",
+      "price": "$999"
+    },
+    {
+      "name": "TV",
+      "category": "Appliances",
+      "image": "./images/tv7.jpg",
+      "price": "$999"
+    },
+    {
+      "name": "TV",
+      "category": "Appliances",
+      "image": "./images/tv8.jpg",
+      "price": "$999"
+    },
+    
+    {
+      "name": "Washing Machine",
+      "category": "Appliances",
+      "image": "./images/wh1.jpg",
+      "price": "$599"
+    },
+    {
+      "name": "Washing Machine",
+      "category": "Appliances",
+      "image": "./images/wh2.jpg",
+      "price": "$599"
+    },
+    {
+      "name": "Washing Machine",
+      "category": "Appliances",
+      "image": "./images/wh3.jpg",
+      "price": "$599"
+    },
+    {
+      "name": "Washing Machine",
+      "category": "Appliances",
+      "image": "./images/wh4.jpg",
+      "price": "$599"
+    },
+    {
+      "name": "Washing Machine",
+      "category": "Appliances",
+      "image": "./images/wh5.jpg",
+      "price": "$599"
+    },
+    {
+      "name": "Washing Machine",
+      "category": "Appliances",
+      "image": "./images/wh6.jpg",
+      "price": "$599"
+    },
+    {
+      "name": "Washing Machine",
+      "category": "Appliances",
+      "image": "./images/wh7.jpg",
+      "price": "$599"
+    },
+    {
+      "name": "Washing Machine",
+      "category": "Appliances",
+      "image": "./images/wh8.jpg",
+      "price": "$599"
+    },
+    {
+        "name": "MacBook Air",
+        "category": "Electronics",
+        "image": "./images/lp1.jpg",
+        "price": "$1299"
+    },
+    {
+        "name": "Dell Latitude 7750",
+        "category": "Electronics",
+        "image": "./images/lp2.jpg",
+        "price": "$1299"
+    },
+    {
+        "name": "MSI Gaming Laptop",
+        "category": "Electronics",
+        "image": "./images/lp3.jpg",
+        "price": "$1299"
+    },
+    {
+        "name": "Asus ROG",
+        "category": "Electronics",
+        "image": "./images/lp4.jpg",
+        "price": "$1299"
+    },
+    {
+        "name": "HP 15-S",
+        "category": "Electronics",
+        "image": "./images/lp5.jpg",
+        "price": "$1299"
+    },
+    {
+        "name": "Lenovo LOQ",
+        "category": "Electronics",
+        "image": "./images/lp6.jpg",
+        "price": "$1299"
+    }
+  ]
+  

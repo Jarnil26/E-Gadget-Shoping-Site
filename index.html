@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gadget Shop</title>
+  <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+  <header class="header">
+    <h1>Gadget Shop</h1>
+    <p>Your one-stop shop for the latest gadgets!</p>
+    <input type="text" id="search" placeholder="Search products..." oninput="searchProducts()">
+  </header>
+
+  <main class="container">
+    <!-- Sidebar for Categories -->
+    <aside class="sidebar">
+      <h2>Categories</h2>
+      <ul id="categories">
+        <!-- Dynamically loaded categories -->
+      </ul>
+    </aside>
+
+    <!-- Main Section for Products -->
+    <section class="product-section">
+      <h2>Available Products</h2>
+      <div id="products" class="products-grid">
+        <!-- Dynamically loaded products -->
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>© 2025 Gadget Shop | Designed for an amazing shopping experience</p>
+  </footer>
+
+  <script src="./js/script.js"></script>
+</body>
+</html>
